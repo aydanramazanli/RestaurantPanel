@@ -1,0 +1,19 @@
+img{
+  object-fit: cover;
+}
+.loginImg{
+  width:70%;
+}
+.loginBg{
+z-index:-1;
+}
+.imageHome{
+  background-image:url("./images/homeimg.png");height: 100vh;
+}
+li{
+  list-style:none
+}
+.bg{
+  height:100vh
+}
+

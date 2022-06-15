@@ -1,0 +1,144 @@
+{
+    "table": [
+        {
+            "id": 1,
+            "tableCode": 1
+        },
+        {
+            "id": 2,
+            "tableCode": 2
+        },
+        {
+            "id": 3,
+            "tableCode": 3
+        },
+        {
+            "id": 4,
+            "tableCode": 4
+        },
+        {
+            "id": 5,
+            "tableCode": 5
+        },
+        {
+            "id": 6,
+            "tableCode": 6
+        },
+        {
+            "id": 7,
+            "tableCode": 7
+        }, {
+            "id": 8,
+            "tableCode": 8
+        },
+        {
+            "id": 9,
+            "tableCode": 9
+        },{
+            "id": 10,
+            "tableCode": 10
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Aydın"
+        },
+        {
+            "id": 2,
+            "name": "Günay"
+        },
+        {
+            "id": 3,
+            "name": "Cavad"
+        },
+        {
+            "id": 4,
+            "name": "Aysel"
+        },
+        {
+            "id": 5,
+            "name": "Əhməd"
+        },
+        {
+            "id":6,
+            "name": "Nurlan"
+        },
+        {
+            "id": 7,
+            "name": "Sevda"
+        }
+    ],
+    "status": [
+        {
+            "id": 1,
+            "status": "sonlanan"
+        },
+        {
+            "id": 2,
+            "status": "sonlanmayan"
+        }
+    ],
+    "menu": [
+        {
+            "id": 1,
+            "Name": "Dönər",
+            "price": 8,
+            "amount": 1
+        },
+        {
+            "id": 2,
+            "Name": "Pizza",
+            "price": 15,
+            "amount": 1
+        },
+        {
+            "id": 3,
+            "Name": "Cola",
+            "price": 2,
+            "amount": 1
+        },
+        {
+            "id": 4,
+            "Name": "Salad",
+            "price": 10,
+            "amount": 1
+        },
+        {
+            "id": 5,
+            "Name": "Waffle",
+            "price": 5,
+            "amount": 1
+        },
+        {
+            "id": 6,
+            "Name": "Çay",
+            "price": 4,
+            "amount": 1
+        },
+        {
+            "id": 7,
+            "Name": "Coffe",
+            "price": 6,
+            "amount": 1
+        },
+        {
+            "id": 8,
+            "Name": "Burger",
+            "price": 12,
+            "amount": 1
+        },
+        {
+            "id": 9,
+            "Name": "Nuggets",
+            "price": 10,
+            "amount": 1
+        },
+        {
+            "id": 10,
+            "Name": "Tost",
+            "price": 6,
+            "amount": 1
+        }
+    ]
+}
